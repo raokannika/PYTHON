@@ -1,4 +1,4 @@
-# Program 8: Basic EDA
+# Program 5: Basic EDA
 import pandas as pd
 
 df = pd.read_csv("titanic.csv")  # Use a Titanic dataset CSV
